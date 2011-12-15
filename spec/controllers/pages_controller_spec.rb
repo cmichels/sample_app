@@ -43,5 +43,4 @@ describe PagesController do
 			response.should have_tag("title","Ruby on Rails Tutorial Sample App | About")
 		end
 	end
-  
 end
