@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe UsersHelper do
 
   #Delete this example and add some real ones or delete this file
@@ -9,3 +10,4 @@ describe UsersHelper do
   end
 
 end
+
